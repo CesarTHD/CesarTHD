@@ -2,7 +2,7 @@
 
 
 - :computer:  Computer Science
-- :seedling:  Studying PHP
+- :seedling:  Studying Typescript
 - :zap:  Internship at Galgar Digital
 - :bearded_person: Pronouns: Ele/Dele
 
