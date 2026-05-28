@@ -4,7 +4,6 @@
 - :computer:  Computer Science
 - :seedling:  Studying Typescript
 - :zap:  Internship at Agnostic Data
-- :bearded_person: Pronouns: Ele/Dele
 
   ##
 
